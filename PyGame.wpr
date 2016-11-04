@@ -1,0 +1,23 @@
+#!wing
+#!version=5.0
+##################################################################
+# Wing IDE project file                                          #
+##################################################################
+[project attributes]
+proj.file-list = [loc('button.py'),
+                  loc('ChooseLevel.py'),
+                  loc('ChooseLevelButton.py'),
+                  loc('ContinueButton.py'),
+                  loc('drawText.py'),
+                  loc('ExitButton.py'),
+                  loc('header.py'),
+                  loc('HintButton.py'),
+                  loc('level.py'),
+                  loc('main.py'),
+                  loc('MenuButton.py'),
+                  loc('NextButton.py'),
+                  loc('pybackground.py'),
+                  loc('StartButton.py'),
+                  loc('state.py'),
+                  loc('tile.py')]
+proj.file-type = 'shared'
